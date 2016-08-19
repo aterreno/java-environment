@@ -1,1 +1,1 @@
-docker run java-env $1
+docker run java-env /src/demo/gradlew bootRun
